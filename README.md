@@ -1,2 +1,3 @@
 # Snake-Game
-Game created using OpenGl
+<br>
+Popular Nokia Snake Game implemented using C++
