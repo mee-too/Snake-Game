@@ -1,4 +1,3 @@
 # Snake-Game
 <br>
-Popular Nokia snake game implemented using C++
-
+Popular Nokia Snake Game implemented using C++
