@@ -1,1 +1,2 @@
 C:\openGL\Snake\x64\Debug\Snake.exe
+C:\Users\VIE\source\repos\Snake-Game\x64\Debug\Snake.exe
